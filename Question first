@@ -1,0 +1,2 @@
+Given a Binary Search Tree and a range [low, high]. Find all the numbers in the BST that lie in the given range. 
+Note: Element greater than or equal to root go to the right side.
